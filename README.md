@@ -12,4 +12,8 @@ A. NOTE for FaceOSC
 
 
 B. NOTE for ofxSPM_box
+    This project includes three OpenFramework projects
+    1) SlitScan effect
+    2) OSC receiver
+    3) Simple Projection Mapper
   
