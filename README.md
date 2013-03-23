@@ -11,5 +11,5 @@ A. NOTE for FaceOSC
     </source>
 
 
-A. NOTE for ofxSPM_box
+B. NOTE for ofxSPM_box
   
